@@ -236,6 +236,10 @@
 }
 
 @media (max-width: 991px){
+	
+	.welcome-section{
+		padding-top: 0px !important;
+	}
 	.font-home{
 		font-size: 28px !important;
 	}
